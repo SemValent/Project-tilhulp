@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1679571464 source:c:\users\markg\onedrive\documents\blok 3\testv2\fuse.c
+	<avr/io.h>
+
+1680262634 source:c:\users\markg\onedrive\documents\blok 3\testv2\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"servo.h"
+	"h_bridge.h"
+
+1680252133 c:\users\markg\onedrive\documents\blok 3\testv2\servo.h
+
+1680253714 source:c:\users\markg\onedrive\documents\blok 3\testv2\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1679572868 source:c:\users\markg\onedrive\documents\blok 3\testv2\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1680180320 c:\users\markg\onedrive\documents\blok 3\testv2\h_bridge.h
+
+1679571466 source:d:\codeblocksprojects\testv2\fuse.c
+	<avr/io.h>
+
+1679572870 source:d:\codeblocksprojects\testv2\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1680180322 d:\codeblocksprojects\testv2\h_bridge.h
+
+1680253716 source:d:\codeblocksprojects\testv2\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1680252134 d:\codeblocksprojects\testv2\servo.h
+
+1680273508 source:d:\codeblocksprojects\testv2\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"servo.h"
+	"h_bridge.h"
+	<avr/interrupt.h>
+
